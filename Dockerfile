@@ -10,4 +10,4 @@ FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /app
 COPY --from=build /app/out .
 ENV ASPNETCORE_URLS=http://*:80
-CMD dotnet App.dll
+CMD dotnet sample2.dll
