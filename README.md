@@ -1,2 +1,2 @@
 # sample2
-This POC is to test integration with JFrog Artifactory
+This POC is to test creation of custom actions using Docker container.
