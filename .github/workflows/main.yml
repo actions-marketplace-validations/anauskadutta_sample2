@@ -7,6 +7,6 @@ jobs:
     steps:
       - id: hello
         name: Testing Hello World Sample Code
-        uses: anauskadutta/sample2@v1
+        uses: anauskadutta/sample2@v2
         with:
           who-to-greet: 'World!!!'
